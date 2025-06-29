@@ -1,3 +1,5 @@
+🔗 **Live Website**:(https://students-placement-predictor.netlify.app/)
+
 # 🎯 Student Placement Readiness Predictor
 
 An AI-powered web application that analyzes students' coding profiles and technical skills to predict global placement readiness and suggest personalized career paths.
